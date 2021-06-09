@@ -1,2 +1,2 @@
-# mars-data
-Data for Morris Screenining and Gaussian Processes in project MARS
+## MARS Data
+Data for Morris Screening and Gaussian Processes in project MARS.
