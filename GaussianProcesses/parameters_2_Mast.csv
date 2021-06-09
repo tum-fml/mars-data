@@ -1,0 +1,17 @@
+SC height;8;45
+SC CG in y direction [% of SC height];0.25;0.5
+Mast mass per height;75;500
+Mast CG in x direction;0.25;0.75
+Mast additional masses;1500;8000
+Wheel distance;3;11
+Traverse CG in x direction;0.3;0.7
+Traverse mass per length;150;550
+Traverse additional masses;200;3000
+Maximum acceleration in x direction;0.2;2.5
+Slip time in x direction;0;1
+Maximum velocity in x direction;1;5
+Lift CG in x direction [% of SC height];0.4;0.6
+Lift mass empty;850;3000
+Load average mass;300;3000
+Maximum acceleration in y direction;0.5;2
+Rack length;30;150
